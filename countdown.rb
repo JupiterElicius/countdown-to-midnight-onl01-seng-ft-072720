@@ -1,4 +1,5 @@
 def countdown(10)
+  coutndown = 10
   while countdown > 0 
   puts "#{countdown} SECOND(S)!"
   countdown -= 1
