@@ -1,5 +1,4 @@
 #write your code here
-countdown = 10
 def countdown
   while countdown > 0 
   puts "#{countdown} SECOND(S)!"
