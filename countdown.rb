@@ -1,5 +1,5 @@
 #write your code here
-def countdown
+def X
   X = 10
   while X > 0 
   puts "#{X} SECOND(S)!"
@@ -8,4 +8,3 @@ def countdown
    "HAPPY NEW YEAR!"
 end
 
-def countdown_with_sleep
